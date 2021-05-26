@@ -10,11 +10,11 @@
     
 In order to undertand the appeal of horse dancing, it is important to know:
 
-+ Horse dancing is both exciting and dangerous
++ Horse dancing is both *exciting* and *dangerous*
 * Only the richest of people can train a horse to dance
 - Only the fittest of horses can learn
 
-The elements of horse dancing (care of [The Horsedancer's Guild][1]:
+The elements of horse dancing (care of [The Horsedancer's Guild][1]):
 1. Physique
 2. Technique
 3. Mystique
